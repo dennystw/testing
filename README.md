@@ -1,2 +1,2 @@
-# testing
-workshop
+# jenkins-psl
+Skeleton code structure
